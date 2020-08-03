@@ -1,0 +1,7 @@
+.hello-world{
+    background-color: bisque;
+}
+
+:host{
+    border: 4px solid;
+}
